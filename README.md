@@ -27,7 +27,6 @@ Flutter Firebase veritabanı ile oluşturmuş olduğum basit ama etkili yönteml
 <h4>Doğrulama Email Görüntüsü</h4>
 <img src="https://github.com/NuhcanATAR/togg/assets/77950761/d44ea1f3-396d-4970-9a72-b9476840acff" />
 
-
 <h4>Uygulama içi Ekran Görüntüleri</h4>
 <table>
   <tr>

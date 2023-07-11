@@ -1,6 +1,7 @@
 # togg
 Flutter Firebase veritabanı ile oluşturmuş olduğum basit ama etkili yöntemler kullanarak TOGG Otomobili Hakkında Bilgi veren, Sarj İstasyonlarını gösteren ve favori araç ekleme gibi birçok özelliğin bulunduğu Mobil Uygulama Geliştirdim.
 
+
 <h4>Uygulamada Bulunan Özellikleri</h4>
 <ul>
   <li>Giriş Yapma</li>
@@ -13,6 +14,11 @@ Flutter Firebase veritabanı ile oluşturmuş olduğum basit ama etkili yönteml
   <li>Araç Listeleme & Detay Görüntüleme</li>
   <li>Favori Ekleme</li>
   <li>Profil Sayfası</li>
+</ul>
+
+<h4>Kullandığım Kaynaklar</h4>
+<ul>
+  <li><a href="https://www.sahibinden.com/oto360/sifir-araclar/togg-fiyat-listesi" />Sahibinden Oto360</a></li>
 </ul>
 
 <h4>Uygulama Veritabanı Diagramı</h4>

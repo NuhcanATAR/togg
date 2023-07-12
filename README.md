@@ -1,4 +1,4 @@
-# togg
+# TOGG
 Flutter Firebase veritabanı ile oluşturmuş olduğum basit ama etkili yöntemler kullanarak TOGG Otomobili Hakkında Bilgi veren, Sarj İstasyonlarını gösteren ve favori araç ekleme gibi birçok özelliğin bulunduğu Mobil Uygulama Geliştirdim.
 
 
